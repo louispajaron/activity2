@@ -1,0 +1,66 @@
+* {
+
+    font-family: "Arial Rounded MT Bold";
+
+}
+
+body {
+
+     background: #D9E76C;
+
+}
+
+h1 {
+
+     color: #537D8D;
+
+
+} 
+
+h2 {
+
+    color: #537D8D;
+
+}
+
+h3 {
+
+	color: #537D8D;
+}
+
+b {
+
+	color: #537D8D;
+}
+
+
+header * {
+
+     display: inline;
+     vertical-align: top;
+}    
+
+img {
+
+ width: 200px;
+ height: 200px;	
+ border-radius: 50%;
+
+}
+#logo {
+    height: 50px;
+    width:50px;
+}
+
+nav p a {
+    text-decoration: none;
+    padding-right: 20px;
+    color: white; 
+}
+nav p a:hover {
+
+}
+
+
+
+
